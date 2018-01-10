@@ -29,10 +29,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-<<<<<<< HEAD
-#help
-=======
->>>>>>> f7bda27ff1a8730242fc8528acb57b5fc72ef919
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
