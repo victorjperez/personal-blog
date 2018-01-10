@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<link href={{ "/assets/main.css" | absolute_url }} rel="stylesheet">
+  {% include head.html %}
+
+  <body>
+    <main class="page">
+        {{ content }}
+  </body>
+
+</html>

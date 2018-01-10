@@ -1,0 +1,19 @@
+<head>
+
+	<div class="toolbar">
+		<ul>
+			<p><img src={{ "logo.svg" | absolute_url }}> Victor Perez</p>
+			<li><a href={{ "index.html" | absolute_url }}>Blog</a></li>
+			<!--
+        -->
+			<li><a href={{ "Topics.html" | relative_url }}>Topics</a></li>
+			<!--
+        -->
+			<li><a href="http://google.com">About</a></li>
+			<!--
+        -->
+			<li class="final"><a href="http://google.com">Portfolio</a></li>
+		</ul>
+	</div>
+	<title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+</head>

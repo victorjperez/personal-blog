@@ -1,0 +1,31 @@
+---
+layout: hometemplate
+---
+
+<div class="home">
+
+  <h2 class="page-heading">Latest Posts:</h2>
+  <hr>
+  {{ content }}
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+    <li>
+      <div class="post-preview">
+        <div class="blogImage">
+          <img src="assets/{{ post.image }}">
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </div>
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        <span class="post-meta"><u>{{ post.date | date: date_format }}</u></span>
+        <p> {{ post.excerpt }} <a href="{{ post.url | relative_url }}">READ MORE</a> </p>
+      </div>
+    </li>
+    <hr>
+    {% endfor %}
+    ***
+  </ul>
+
+  <p class="rss-subscribe"><center><a href="{{ "/feed.xml" | relative_url }}"> subscribe via RSS</a></center></p>
+
+</div>
