@@ -1,0 +1,10 @@
+<div class="post-preview">
+  <div class="blogImage">
+    <img src="assets/{{ post.image }}">
+    <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+  </div>
+
+  {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+  <span class="post-meta"><u>{{ post.date | date: date_format }}</u></span>
+  <p> {{ post.excerpt }} <a href="{{ post.url | relative_url }}">READ MORE</a> </p>
+</div>
