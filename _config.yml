@@ -25,6 +25,11 @@ twitter_username: jekyllrb
 github_username:  jekyll
 permalink: blog/:categories/:title.html
 # Build settings
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
 markdown: kramdown
 theme: minima
 paginate: 5

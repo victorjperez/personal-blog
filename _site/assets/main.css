@@ -174,3 +174,38 @@ hr {
   transform: translate(-50%, -50%);
   font-size: 55px;
 }
+.topics {
+  position: relative;
+  padding-bottom: 300px;
+}
+.topics ul{
+  display: inline;
+  float: left;
+}
+
+.topics li {
+  list-style-type: none;
+
+}/*
+.topic {
+  display: inline-block;
+  margin-left: 50px;
+  color: #d1d0f2;
+  position: absolute;
+  padding: 300px;
+}*/
+.topic img {
+  object-fit: cover;
+  border-radius: 200px;
+  height: 100px;
+  width: 100px;
+  filter: brightness(20%);
+}
+.topic a{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-weight: bolder;
+  color: #d1d0f2;
+  text-shadow: 5px 5px 4px black;
+}
