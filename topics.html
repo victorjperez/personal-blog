@@ -7,19 +7,16 @@ layout: default
 <div class="topic">
 	{% assign topicPosts =  site.categories[topic].size %}
 	{% for post in site.categories[topic] %}
-		{% if forloop.index == 4 %}
-			{% if topicPosts > 4 %}
-				<div class="latest-article">
-					<a class ="seeMore" href="{{ baseurl }}/topic/{{ topic }}.html">See more<a>
-				</div>
-				{% break %}
+		{% if forloop.index == 5 %}
+			{% if topicPosts > 10 %}
+					<a class ="seeMore" href="{{ baseurl }}/topic/{{ topic }}.html"><img src="{{site.url}}/assets/img/{{ post.image }}"></img><a>
+
 			{% endif %}
+			{% break %}
 		{% endif %}
-  	<div class="latest-article">
-	 	 <a href="{{ post.url | relative_url }}">
-			<img src="{{site.url}}/assets/img/{{ post.image }}"></img><br>
-			<p>{{ post.title | escape }}</p></a>
-		</div>
+	 	<a href="{{ post.url | relative_url }}">
+			<img src="{{site.url}}/assets/img/{{ post.image }}"></img>
+		<p>{{ post.title | escape | truncate: 29, '...' }}</p></a>
 	{% endfor %}
 </div>
 {% endfor %}
