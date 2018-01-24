@@ -7,12 +7,14 @@ layout: default
 <div class="topic">
 	{% assign topicPosts =  site.categories[topic].size %}
 	{% for post in site.categories[topic] %}
-		{% if forloop.index == 5 %}
-			{% if topicPosts > 10 %}
-					<a class ="seeMore" href="{{ baseurl }}/topic/{{ topic }}.html"><img src="{{site.url}}/assets/img/{{ post.image }}"></img><a>
-
+		{% if forloop.index == 4 %}
+			{% if topicPosts > 4 %}
+					<a class="seeMore" href="{{ baseurl }}/topic/{{ topic }}.html">
+						<img src={{ "forward.svg" | absolute_url }}></img>
+						<p>See More</p></a>
+					{% break %}
 			{% endif %}
-			{% break %}
+
 		{% endif %}
 	 	<a href="{{ post.url | relative_url }}">
 			<img src="{{site.url}}/assets/img/{{ post.image }}"></img>
@@ -20,3 +22,4 @@ layout: default
 	{% endfor %}
 </div>
 {% endfor %}
+***

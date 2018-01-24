@@ -2,11 +2,14 @@
 layout: default
 ---
 <div class="home">
+	<h2 class="page-heading">Latest Posts:</h2>
+	<hr width="200">
 	<ul class="post-list">
 		{% for post in site.categories[page.category] %}
 			<li>
 				{% include postpreview.html %}
 			</li>
+			<hr width="200">
 		{% endfor %}
 
 		***

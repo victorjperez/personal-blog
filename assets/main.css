@@ -181,7 +181,7 @@ hr {
   flex-flow: row;
   margin: 5px 5px;
   height: 9em;
-  margin-bottom: 20px;
+  margin-bottom: 2em;
   justify-content: space-between;
 }
 .topic a {
@@ -196,12 +196,26 @@ hr {
   float: left;
   overflow-wrap: break-word;
   position: absolute;
-  top: 65%;
+  top: 72%;
   left: -18%;
   text-decoration: underline;
 }
 .topic a img {
   width: 100%;
-  height: 70%;
+  height: 80%;
   filter: brightness(30%);
+}
+
+a.seeMore img {
+  position: absolute;
+  top: 25%;
+  left: 20%;
+  width: 50%;
+  height: 40%;
+}
+a.seeMore p{
+  position: absolute;
+  top: 0%;
+  left: 5%;
+  text-decoration: none;
 }

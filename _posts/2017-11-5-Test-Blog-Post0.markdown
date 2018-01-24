@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Test blog post2"
+title:  "zTest blog post2"
 date:   2017-11-05 00:50:34 -0400
 author: "Victor Perez"
 categories: [music, jekyll]
