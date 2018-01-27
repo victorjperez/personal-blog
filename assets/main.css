@@ -171,7 +171,7 @@ hr {
 .topic {
   display: flex;
   flex-flow: row;
-  margin: 5px 5px;
+  margin: 5px -10% 5px -10%;
   height: 9em;
   margin-bottom: 2em;
   justify-content: space-between;
@@ -189,7 +189,6 @@ hr {
   overflow-wrap: break-word;
   position: absolute;
   top: 72%;
-  left: -18%;
   text-decoration: underline;
 }
 .topic a img {
@@ -201,13 +200,13 @@ hr {
 a.seeMore img {
   position: absolute;
   top: 25%;
-  left: 20%;
+  left: 30%;
   width: 50%;
   height: 40%;
 }
 a.seeMore p{
   position: absolute;
   top: 0%;
-  left: 5%;
+  left: 15%;
   text-decoration: none;
 }
