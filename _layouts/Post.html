@@ -3,12 +3,15 @@
 <body>
 	<div class="page">
 		<br>
-		<a href="#">{{ page.categories }}</a>
+
 		<div class="title">{{ page.title }}</div>
+		{% for category in page.categories %}
+			<h2>{{ category }} </h2> *
+		{% endfor %}
 		<div class="date">{{ page.date | date: date_format }}</div>
-		<div class="author">By {{ post.author }}</div>
-		<hr>
-		<div class="content">{{ content }}</div>
+		<div class="author">By: {{ post.author }}</div>
+
+		<div class="content">henlo</div>
 		***
 	</div>
 </body>

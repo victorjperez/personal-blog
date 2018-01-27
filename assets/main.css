@@ -85,30 +85,23 @@ body {
 
 .page p {
   padding: 0px 40px 0px;
+  line-height: 1.5;
+  font-size: 22px;
   text-align: left;
-}
-.page-heading {
-  font-style: normal;
-  font-size: 35px;
-  font-weight: 600;
 }
 .post-title {
   font-size: 70px;
+  line-height: 1.1;
   text-align: center;
   z-index: -1;
   margin: 15px 30px;
 }
 
 .post-date {
-  font-size: 25px;
-  font-style: italic
+  font-size: 23px;
+  text-align: left;
 }
 
-.post-author {
-  font-style: italic;
-  font-size: 30px;
-  margin: 20px 0 20px;
-}
 h1 {
   font-weight: bold;
   font-size: 75px;
@@ -125,13 +118,13 @@ h3 {
   font-size: 30px;
   margin: 0 auto;
 }
+h4 {
+  font-size: 25px;
+  margin: 0 auto;
+}
 hr {
-  display: block;
-  height: 4px;
-  border: 0;
-  border-top: 1px solid #4C5C72;
-  margin: 1em auto;
-  padding: 0;
+  border-top: 1px solid #373737;
+  width: 200px;
 }
 .titleBlock {
   padding: 40px 0;
