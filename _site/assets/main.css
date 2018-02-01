@@ -196,7 +196,11 @@ hr {
   height: 80%;
   filter: brightness(30%);
 }
-
+.topic a img:hover {
+  filter: brightness(50%);
+  -webkit-transition-duration: .5s; /* Safari */
+  transition-duration: .5s;
+}
 a.seeMore img {
   position: absolute;
   top: 25%;
@@ -204,7 +208,7 @@ a.seeMore img {
   width: 50%;
   height: 40%;
 }
-a.seeMore p{
+a.seeMore p {
   position: absolute;
   top: 0%;
   left: 15%;
