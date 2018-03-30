@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Testttttttttt ttttttt tttttttttttttttttt"
+title:  "Technological Waves and the Music Industry"
 date:   2017-11-05 00:50:34 -0400
 author: "Victor Perez"
-categories: jekyll
+categories: [music, tech]
 image: "tech.jpg"
 ---
 NO MATTER THE INDUSTRY, technology has brought large changes to how things in our society function. The lightning fast pace of technology has hit the music industry in full force, and brought huge change with it. One of the biggest changes has been the introduction of web-based music streaming, where fans can access a huge and growing library of music for a small monthly fee, or even for free with advertisements. This is hugely different from how things worked in the past, where you would need to pay $10 per album in order to listen on demand. Now for around $10 a month, you can access a huge and ever-growing library of music. This is a huge boon for music enthusiasts and general consumers, but what about the artists? How do they make up for the lost revenue? Who eats the loss when it comes to the greatest deal in music? The answer is; eventually everyone. Music streaming services such as Spotify and Apple Music are a net negative on the music industry as a whole, and are not sustainable in the long term.
