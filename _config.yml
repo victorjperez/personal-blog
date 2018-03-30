@@ -33,7 +33,7 @@ defaults:
 markdown: kramdown
 theme: minima
 paginate: 5
-topics: [jekyll, tech, music, fashion]
+topics: [creative_nonfiction, tech, music]
 plugins:
   - jekyll-feed
   - jekyll-paginate

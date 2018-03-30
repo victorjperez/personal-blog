@@ -4,7 +4,7 @@ title:  "Flaming Arcade"
 date:   2018-02-02 00:50:34 -0400
 author: "Victor Perez"
 categories: creative_nonfiction
-image: "cnf.png"
+image: "cnf.jpg"
 ---
 In modern American society, there’s always this notation of forward motion. As it stands, we as a country are always “pressing the gas” for better or for worse. If you aren’t moving forward, you are a waste of space. You are left behind. You are forgotten. My hometown is not exempt from these suffocating societal bindings. My hometown has never stopped growing and expanding. Every time I come back from a semester of college, another Starbucks has opened up. Commutes take an additional 5 minutes. Housing values rise by a huge factor. The closest grocery store has once again been bought out and remodeled
 

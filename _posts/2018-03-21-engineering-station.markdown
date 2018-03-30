@@ -4,7 +4,7 @@ title:  "Engineering Station"
 date:   2018-03-21 00:50:34 -0400
 author: "Victor Perez"
 categories: creative_nonfiction
-image: "cnf.png"
+image: "cnf.jpg"
 ---
 It was early October in the very recent year 2017, and I was standing at the PRT station thinking. The thoughts consumed me, sharply dulling all of my senses. Though the thoughts were focusing on a very bad thing, I strangely felt a neutral feeling while I unpacked each and every one of them.
 
