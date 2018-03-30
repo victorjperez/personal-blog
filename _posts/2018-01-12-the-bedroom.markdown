@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: Page
 title:  "The Bedroom"
 date:   2018-01-12 00:50:34 -0400
 author: "Victor Perez"

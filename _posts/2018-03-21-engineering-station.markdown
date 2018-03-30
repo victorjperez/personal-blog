@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: Page
 title:  "Engineering Station"
 date:   2018-03-21 00:50:34 -0400
 author: "Victor Perez"

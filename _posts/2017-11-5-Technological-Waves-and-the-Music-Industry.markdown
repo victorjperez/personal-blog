@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: Page
 title:  "Technological Waves and the Music Industry"
 date:   2017-11-05 00:50:34 -0400
 author: "Victor Perez"
