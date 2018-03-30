@@ -9,7 +9,7 @@ layout: default
     <h4>•
       {% for topic in page.categories %}
         <a href="{{ baseurl }}/topic/{{ topic }}.html">
-        {{ topic | capitalize }}</a> •
+        {{ topic.title | capitalize }}</a> •
       {% endfor %}
     </h4>
     </header>

@@ -28,4 +28,4 @@ The chuckling was out of control.
 
 “I don’t really speak New Jersian.”, stated the young man rather obviously. It was clear the conversation had long since died before I started listening. “Well I’m gonna havta get going now, we should chat again sometime.”
 
-“Well I’m not going to be around here to long. I’m down here for the open mic night, but I dunno how long I’ll be around town”. The younger man seemed a little disappointed at this revelation. “I’m pretty easy to find though, if you want to chat while I’m around.” the old man was far too nice for his own good.
+“Well I’m not going to be around here to long. I’m down here for the open mic night, but I dunno how long I’ll be around town”.The younger man seemed a little disappointed at this revelation. “I’m pretty easy to find though, if you want to chat while I’m around.” the old man was far too nice for his own good.
