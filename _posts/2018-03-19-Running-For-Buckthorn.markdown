@@ -3,7 +3,7 @@ layout: Page
 title: "Running For Buckthorn"
 date: 2018-02-19 00:50:34 -0400
 author: "Victor Perez"
-categories: creative_nonfiction
+categories: nonfiction
 image: "cnf.jpg"
 ---
 Running from friends. Running from life. Running from family. No matter where I go, I can’t escape. Running from anxiety. Running from reality. Running from my future career. I’ve never been much of an athlete. My legs and my lungs are always in competition of what will give first. Running from my desires, because I felt like I was never worth them. Running from my needs, because other peoples’ were more important. Running is pointless and exhausting. Trying to justify why you’re running is almost as bad as the act of running itself.

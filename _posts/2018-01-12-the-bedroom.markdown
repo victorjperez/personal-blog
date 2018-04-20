@@ -3,7 +3,7 @@ layout: Page
 title:  "The Bedroom"
 date:   2018-01-12 00:50:34 -0400
 author: "Victor Perez"
-categories: creative_nonfiction
+categories: nonfiction
 image: "cnf.jpg"
 ---
 

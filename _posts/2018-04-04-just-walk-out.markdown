@@ -3,7 +3,7 @@ layout: Page
 title:  "Just Walk Out"
 date:   2018-04-04 00:50:34 -0400
 author: "Victor Perez"
-categories: creative_nonfiction
+categories: nonfiction
 image: "cnf.jpg"
 ---
 The better the medicine, the more frequent the usage. As usage increases, the urge to increase dosage arises, and addiction settles. This is how addiction works in my mind, though I’m sure the reality doesn’t match up to my own perception. When I think of apathy, I consider it in the same way that I consider my bullshit theory for addiction. Apathy is needed in small doses; you can’t care about everything, to try is a fruitless and maddening task. In the same vein, caring about nothing is as equally as terrible. Apathy breeds sloth and sloth breeds the other ‘a’: atrophy. I of course, say these things with the same ignorant confidence that I present my “addiction theory,” however in my own experiences this is what I’ve found to be true.

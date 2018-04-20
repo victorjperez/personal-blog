@@ -3,7 +3,7 @@ layout: Page
 title:  "Poster Density"
 date:   2018-03-30 00:50:34 -0400
 author: "Victor Perez"
-categories: [creative_nonfiction, music]
+categories: [nonfiction, music]
 image: "cnf.jpg"
 ---
 There is a place, hidden in plain sight. Chances are, if you attend or have attended West Virginia University, you have walked by it. Nestled deep inside the student union, there lies a wall of glass, and on the glass the U92 logo proudly rests. This is the college radio station; the source of Morgantown’s only alternative programming, and more importantly: one of my many homes.

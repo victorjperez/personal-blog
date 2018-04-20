@@ -4,7 +4,7 @@ title:  "Paper Code"
 date:   2018-03-30 00:50:34 -0400
 author: "Victor Perez"
 categories: [creative nonfiction, tech]
-image: "tech.jpg"
+image: "computerscience.jpg"
 ---
 As I’ve become more and more experienced as a programmer, one thing has abundantly clear: the less time you spend writing code, the better. Much like writing a book, if you just hop on your computer and start typing, you’ll eventually find yourself tangled in your own work, making something that is more or less impossible to work with. If you chose to continue working on the same poor foundation, more and more time will be spent dedicated to solving problems that you caused, that could have easily been prevent. It is because of this that the majority of my time is spent carefully deciphering what the problem is and planning out how I will solve it.
 

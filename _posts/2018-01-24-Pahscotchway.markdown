@@ -3,7 +3,7 @@ layout: Page
 title:  "Pah-scotch-way"
 date:   2018-01-24 00:50:34 -0400
 author: "Victor Perez"
-categories: creative_nonfiction
+categories: nonfiction
 image: "cnf.jpg"
 ---
 It was the late afternoon, a Tuesday if I recall. I was sitting down with a hot cup of coffee after a day of classes. I’ve done this routine many times before. Sit down, study a bit, maybe get a refill or two, leave. While working on whatever particularly needed to get done that day, a conversation or two might catch my attention. It is a coffee shop after all, and people either sit down to chat or to work. The conversation topics are mostly mundane, but two men caught my attention through the soft music and light mummering of conversation.
