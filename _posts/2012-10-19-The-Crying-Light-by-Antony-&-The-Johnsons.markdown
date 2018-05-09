@@ -4,7 +4,7 @@ title:  "The Crying Light, by Antony & The Johnsons"
 date:   2012-10-19 00:50:34 -0400
 author: "Victor Perez"
 categories: [early works, music]
-image: "cnf.jpg"
+image: "archive.png"
 ---
 
 **_the following piece is a work from early on in my writing career. It remains largely unedited (since the published date), and largely not fact checked. Published date is an approximation_**

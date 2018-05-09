@@ -4,7 +4,7 @@ title:  "Privacy and Propaganda"
 date:   2014-02-14 00:50:34 -0400
 author: "Victor Perez"
 categories: [early works, tech, satire]
-image: "cnf.jpg"
+image: "archive.png"
 ---
 
 **_the following piece is a work from early on in my writing career. It remains largely unedited (since the published date), and largely not fact checked. Published date is an approximation_**
