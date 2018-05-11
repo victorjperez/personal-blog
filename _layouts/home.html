@@ -9,12 +9,14 @@ layout: hometemplate
   {{ content }}
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
     <li>
       {% include postpreview.html %}
     </li>
     <hr noshade width="200">
     {% endfor %}
+  {% include pageselector.html %}
+  <br>
     ***
   </ul>
 

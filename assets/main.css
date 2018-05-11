@@ -224,3 +224,14 @@ a.seeMore p {
   left: 15%;
   text-decoration: none;
 }
+.pagination {
+  margin-top: 30px;
+}
+.pagination a {
+  background-color: #303F4B;
+  color: #EAC9A0;
+  padding: 4px;
+  font-style: normal;
+  border: 1px solid #26333d;
+  border-radius: 2px;
+}

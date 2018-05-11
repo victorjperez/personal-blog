@@ -32,7 +32,8 @@ defaults:
       image: true
 markdown: kramdown
 theme: minima
-paginate: 5
+paginate: 6
+paginate_path: "/latest/page:num/"
 topics: [nonfiction, tech, music, early works, satire, video games]
 plugins:
   - jekyll-feed

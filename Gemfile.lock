@@ -235,8 +235,9 @@ DEPENDENCIES
   github-pages
   jekyll (~> 3.6.2)
   jekyll-feed (~> 0.6)
+  jekyll-paginate
   minima (~> 2.0)
   tzinfo-data
 
 BUNDLED WITH
-   1.16.0
+   1.16.1
