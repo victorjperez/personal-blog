@@ -1,6 +1,6 @@
 ---
 layout: Page
-title:  "Review: Centipede Hz, by Animal Collective"
+title:  "Review: Centipede Hz"
 date:   2012-09-27 00:50:34 -0400
 author: "Victor Perez"
 categories: [early works, music]
@@ -8,6 +8,8 @@ image: "archive.png"
 ---
 
 **_the following piece is a work from early on in my writing career. It remains largely unedited (since the published date), and largely not fact checked. Published date is an approximation_**
+
+Centipede Hz, by Animal Collective
 
 The newest album from Animal Collective, Centipede Hz manages to make a unique album, without from the smooth psychedelic rock feel that Animal Collective is known for.
 
