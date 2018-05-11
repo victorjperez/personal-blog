@@ -1,6 +1,6 @@
 ---
 layout: Page
-title:  "Centipede Hz, by Animal Collective"
+title:  "Review: Centipede Hz, by Animal Collective"
 date:   2012-09-27 00:50:34 -0400
 author: "Victor Perez"
 categories: [early works, music]

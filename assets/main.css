@@ -82,7 +82,9 @@ body {
   font-style: italic;
   color: inherit;
 }
-
+.page h4 a {
+  text-transform: capitalize;
+}
 .page p {
   line-height: 1.5;
   font-size: 22px;
@@ -116,6 +118,7 @@ h2 {
 h3 {
   font-size: 30px;
   margin: 0 auto;
+  text-transform: capitalize;
 }
 h4 {
   font-size: 25px;
@@ -134,6 +137,10 @@ hr {
 }
 
 .home ul {
+  list-style-type: none;
+  margin-left: -40px;
+}
+.post-list {
   list-style-type: none;
   margin-left: -40px;
 }
@@ -200,6 +207,9 @@ hr {
   filter: brightness(50%);
   -webkit-transition-duration: .5s; /* Safari */
   transition-duration: .5s;
+}
+.categories {
+  margin-top: 20px;
 }
 a.seeMore img {
   position: absolute;

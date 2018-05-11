@@ -2,8 +2,8 @@
 layout: default
 ---
 {% for topic in site.topics %}
-<h3><a href="{{ baseurl }}/topic/{{ topic }}.html">{{ topic | capitalize }}</a></h3>
-<hr width="200">
+<h3><a href="{{ baseurl }}/topic/{{ topic }}.html">{{ topic }}</a></h3>
+<hr noshade width="200">
 <div class="topic">
 	{% assign topicPosts =  site.categories[topic].size %}
 	{% for post in site.categories[topic] %}

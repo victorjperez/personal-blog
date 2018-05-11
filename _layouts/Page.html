@@ -6,14 +6,20 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
 
-    <h4>•
+    <h4>
+
       {% for topic in page.categories %}
-        <a href="{{ baseurl }}/topic/{{ topic }}.html">
-        {{ topic | capitalize }}</a> •
+        <a href="{{ baseurl }}/topic/{{ topic }}.html"> {{ topic }}</a>
+        <!-- logic for making sure "//" only prints between categories-->
+        {% if page.categories.size > 1 %}
+          {% unless forloop.index == page.categories.size %}
+          //
+          {% endunless %}
+        {% endif %}
       {% endfor %}
     </h4>
     </header>
-  <hr>
+  <hr noshade>
   <div class="post-content">
     <div class="post-date">{{ page.date | date_to_long_string }} • {{ page.author }}</div>
 
