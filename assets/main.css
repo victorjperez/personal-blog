@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
+@viewport {
+  width: device-width;
+}
 body {
   font-family: 'Josefin Slab', serif;
   background-color: #eee2d2;
