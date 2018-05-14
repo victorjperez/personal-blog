@@ -14,7 +14,7 @@ body {
   color: #373737;
   text-align: center;
   background-color: #EAC9A0;
-  padding: 20px 0 20px 0;
+  padding: 20px 5%;
 }
 
 .page a {
@@ -30,7 +30,6 @@ body {
 .page p {
   line-height: 1.5;
   font-size: 22px;
-  text-align: left;
 }
 
 .post-title {
@@ -41,17 +40,26 @@ body {
   margin: 20px auto;
 }
 
+.post-content {
+  text-align: left;
+  min-width: 200px;
+  min-height: 200px;
+  line-height: 30px;
+}
+
 .post-date {
   font-size: 23px;
-  text-align: left;
+  text-align: center;
 }
 
 .post img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
-  height: 50%;
+  height: auto;
+  display: block;
+  max-width: 50%;
+  max-height: 50%;
 }
 
 h1 {
@@ -85,10 +93,6 @@ hr {
 
 .titleBlock {
   padding: 40px 0;
-}
-
-.post-content {
-  line-height: 30px;
 }
 
 .home ul {
@@ -139,6 +143,9 @@ hr {
 
 @media only screen and (min-width: 900px) {
   /* For desktop: */
+  .post-date {
+    text-align: left;
+  }
   .page {
     margin: 0px 8% 20px;
     box-shadow: 0px 0px 10px #373737;
