@@ -5,11 +5,12 @@ date:   2014-02-09 00:50:34 -0400
 author: "Victor Perez"
 categories: [early works, video games]
 image: "archive.png"
+excerpt_separator: <!--more-->
 ---
 
 **_the following piece is a work from early on in my writing career. It remains largely unedited (since the published date), and largely not fact checked. Published date is an approximation_**
 
-One day in Seattle Washington, two teams were set to compete for the 2.7 million dollar prize pool in Benaroya Hall. The vast crowd of adoring fans were preemptively waiting for the biggest sporting event they would ever experience in their entire lives, but this was no ordinary sporting event. The two teams were not competing for goals, nor were they competing for touchdowns or even baskets. Each teams’ only aim was to destroy the enemy teams’ ancient, in the third Dota 2 international tournament.
+One day in Seattle Washington, two teams were set to compete for the 2.7 million dollar prize pool in Benaroya Hall. The vast crowd of adoring fans were preemptively waiting for the biggest sporting event they would ever experience in their entire lives, but this was no ordinary sporting event. The two teams were not competing for goals, nor were they competing for touchdowns or even baskets. Each teams’ only aim was to destroy the enemy teams’ ancient, in the third Dota 2 international tournament.<!--more-->
 
 “But what in the world is this Dota 2?”, you may be asking yourself. Dota 2 is an acronym that stands for Defense of the Ancients, and it’s a competitive and extremely popular eSport in which you destroy the other teams Ancient (Your base) while defending yours. ESports, short for Electronic Sports are games that are defined as being competitive enough to be played for large prize pools. These video games tend to be known for having extremely high difficulty and skill curves, but can be watched, understood, and enjoyed by large audiences. It doesn’t take much knowledge of the game to have a good time watching it, but playing it well can take thousands of dedicated hours. Two other highly popular eSports are Starcraft 2, a Real Time Strategy game, and League of Legends, a game very similar to Dota 2. The two main countries that tend to produce the best eSport players tend to be Sweden, South Korea, and The Netherlands.
 

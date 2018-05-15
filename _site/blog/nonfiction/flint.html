@@ -10,6 +10,7 @@ nav {
   z-index: 1;
   position: fixed;
   top: 0;
+  left: 0;
   width: 100%;
 }
 
@@ -17,11 +18,14 @@ nav a {
   margin: 0 auto;
   display: inline-block;
   text-align: center;
+  font-size: 25px;
+  font-weight: bold;
   padding: 1% 3%;
+  color: #d1d0f2;
   text-decoration: none;
   border-left: 2px solid #4C5C72;
 }
-nav a:nth-of-type(4) {
+nav a:nth-of-type(5) {
   border-right: 2px solid #4C5C72;
 }
 
@@ -29,6 +33,21 @@ nav a:hover {
   background-color: #303a47;
   transition: .5s;
 }
+nav a:nth-of-type(1) {
+  border-left: 0;
+  top: 25%;
+  left: 10px;
+  font-size: 35px;
+  color: #EAC9A0;
+  position: absolute;
+  padding: 0;
+}
+nav a:nth-of-type(1):hover {
+  background-color: #303F4B;
+  color: #d1d0f2;
+  transition: .5s;
+}
+
 head p {
   font-size: 0px;
 }
@@ -46,59 +65,11 @@ head p {
     display: inline-block;
 
 }
-
-/* .toolbar {
-  z-index: 1;
-  top: 0;
-  left: 0;
-
-  font-size: 25px;
-  font-weight: bold;
-  position: fixed;
-  text-align: center;
-  width: 100%;
-  background-color: #303F4B;
-  box-shadow: 0px 0px 10px #373737;
-}
-.toolbar p {
-  font-size: 0px;
-}
-@media only screen and (min-width: 1200px) {
-  .toolbar p {
-    font-size: 35px;
-    float: left;
-    color: #EAC9A0;
-    margin: -0px -200% 0 20px;
-  }
-}
-.toolbar ul {
-  list-style-type: none;
-  margin: 0 auto;
-
-}
-
-.toolbar li a {
-    display: inline-block;
-  border-left: 2px solid #4C5C72;
-}
-.toolbar li:last-child a {
-  border-right: 2px solid #4C5C72;
-}
-.toolbar a {
-  text-decoration: none;
-  padding: 0px 6%;
-  color: #d1d0f2;
-
-}
-.toolbar li a:hover {
-  background-color: #303a47;
-  transition: .5s;
-} */
 </style>
 <head>
-  <p>Victor Perez</p>
   <nav>
     <center>
+    <a href=http://localhost:4000/index.html>Victor Perez</a>
 		<a href=http://localhost:4000/index.html>Blog</a>
     <a href=/topics.html>Topics</a>
     <a href=/about.html>About</a>
@@ -127,9 +98,8 @@ head p {
     </header>
   <hr noshade>
   <div class="post-content">
-    <div class="post-date">30 March 2018 • Victor Perez</div>
-
-    <p>It was another classic day in Morgantown. Cold enough to require a jacket, and hot enough to sweat in one. As I awoke from my light nap, I felt the thick humidity of the air as my shirt stuck to parts of my chest. Groggily, I went over to the kitchen and started the tea kettle for my evening coffee. It was around six in the evening, and I was following the usual thursday routine: go to class, take a nap, and head over to my college’s radio station to prepare for the five hours of music. This time however, I was adding a step. Nick Flynn was doing a reading in the downtown library, and it just so happened that it fit perfectly into my schedule. The little exposure I had of Flynn’s work impressed me, and there was no real reason not to go.</p>
+      <div class="post-date">30 March 2018 • Victor Perez</div>
+      <p>It was another classic day in Morgantown. Cold enough to require a jacket, and hot enough to sweat in one. As I awoke from my light nap, I felt the thick humidity of the air as my shirt stuck to parts of my chest. Groggily, I went over to the kitchen and started the tea kettle for my evening coffee. It was around six in the evening, and I was following the usual thursday routine: go to class, take a nap, and head over to my college’s radio station to prepare for the five hours of music. This time however, I was adding a step. Nick Flynn was doing a reading in the downtown library, and it just so happened that it fit perfectly into my schedule. The little exposure I had of Flynn’s work impressed me, and there was no real reason not to go.</p>
 
 <p>Walking into the downtown library, I asked the girl at the counter for directions to the Milano Reading Room. It had been a long time since I had been in this library, and I could exactly recall where it was. Traversing up the stairs, I felt the memories of the reading room rush in. I had only been there twice before to study, but this time it felt completely different. As I walked up the steps, I could hear light chatter slightly echo the wide chamber. Despite being there before,  I couldn’t help but feel an oppressive sense of grandeur while scanning the reading room. I say “room,” but really that’s a bit of a misnomer. In the moment it felt more like a very wide and tall hall than anything else. Dusty old bookcases lined the walls, broken up by old-looking paintings and busts. Looking right, rows of stiff wooden chairs pointed to an empty podium. Decisively avoiding the sugary refreshments, I took a seat in the back row, quietly acknowledging the english professor that mentioned this event to the class. After a minute or two, Will from that same class sat down next to me, and we had a quick chat before the event started.</p>
 

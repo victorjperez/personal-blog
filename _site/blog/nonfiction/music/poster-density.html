@@ -10,6 +10,7 @@ nav {
   z-index: 1;
   position: fixed;
   top: 0;
+  left: 0;
   width: 100%;
 }
 
@@ -17,11 +18,14 @@ nav a {
   margin: 0 auto;
   display: inline-block;
   text-align: center;
+  font-size: 25px;
+  font-weight: bold;
   padding: 1% 3%;
+  color: #d1d0f2;
   text-decoration: none;
   border-left: 2px solid #4C5C72;
 }
-nav a:nth-of-type(4) {
+nav a:nth-of-type(5) {
   border-right: 2px solid #4C5C72;
 }
 
@@ -29,6 +33,21 @@ nav a:hover {
   background-color: #303a47;
   transition: .5s;
 }
+nav a:nth-of-type(1) {
+  border-left: 0;
+  top: 25%;
+  left: 10px;
+  font-size: 35px;
+  color: #EAC9A0;
+  position: absolute;
+  padding: 0;
+}
+nav a:nth-of-type(1):hover {
+  background-color: #303F4B;
+  color: #d1d0f2;
+  transition: .5s;
+}
+
 head p {
   font-size: 0px;
 }
@@ -46,59 +65,11 @@ head p {
     display: inline-block;
 
 }
-
-/* .toolbar {
-  z-index: 1;
-  top: 0;
-  left: 0;
-
-  font-size: 25px;
-  font-weight: bold;
-  position: fixed;
-  text-align: center;
-  width: 100%;
-  background-color: #303F4B;
-  box-shadow: 0px 0px 10px #373737;
-}
-.toolbar p {
-  font-size: 0px;
-}
-@media only screen and (min-width: 1200px) {
-  .toolbar p {
-    font-size: 35px;
-    float: left;
-    color: #EAC9A0;
-    margin: -0px -200% 0 20px;
-  }
-}
-.toolbar ul {
-  list-style-type: none;
-  margin: 0 auto;
-
-}
-
-.toolbar li a {
-    display: inline-block;
-  border-left: 2px solid #4C5C72;
-}
-.toolbar li:last-child a {
-  border-right: 2px solid #4C5C72;
-}
-.toolbar a {
-  text-decoration: none;
-  padding: 0px 6%;
-  color: #d1d0f2;
-
-}
-.toolbar li a:hover {
-  background-color: #303a47;
-  transition: .5s;
-} */
 </style>
 <head>
-  <p>Victor Perez</p>
   <nav>
     <center>
+    <a href=http://localhost:4000/index.html>Victor Perez</a>
 		<a href=http://localhost:4000/index.html>Blog</a>
     <a href=/topics.html>Topics</a>
     <a href=/about.html>About</a>
@@ -137,9 +108,8 @@ head p {
     </header>
   <hr noshade>
   <div class="post-content">
-    <div class="post-date">30 March 2018 • Victor Perez</div>
-
-    <p>There is a place, hidden in plain sight. Chances are, if you attend or have attended West Virginia University, you have walked by it. Nestled deep inside the student union, there lies a wall of glass, and on the glass the U92 logo proudly rests. This is the college radio station; the source of Morgantown’s only alternative programming, and more importantly: one of my many homes.</p>
+      <div class="post-date">30 March 2018 • Victor Perez</div>
+      <p>There is a place, hidden in plain sight. Chances are, if you attend or have attended West Virginia University, you have walked by it. Nestled deep inside the student union, there lies a wall of glass, and on the glass the U92 logo proudly rests. This is the college radio station; the source of Morgantown’s only alternative programming, and more importantly: one of my many homes.</p>
 
 <p>Open the glass door, and you’ll find yourself in a room surrounded by three walls of rusted red brick. Music posters are lined up neatly on the walls, and at the right lies another glass door to a small recording studio, which usually lies empty. If you’re not a staff member, the lady at the desk, Darlene, will probably ask what you need. If you are a staff member however, you’ll probably just walk by her, choosing to saying hello or not depending on how you feel about her presence. Once you get past Darlene, there is an intermediary room that connects to another recording studio. More posters outfit the walls, this time a little less evenly.</p>
 

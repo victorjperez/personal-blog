@@ -10,6 +10,7 @@ nav {
   z-index: 1;
   position: fixed;
   top: 0;
+  left: 0;
   width: 100%;
 }
 
@@ -17,11 +18,14 @@ nav a {
   margin: 0 auto;
   display: inline-block;
   text-align: center;
+  font-size: 25px;
+  font-weight: bold;
   padding: 1% 3%;
+  color: #d1d0f2;
   text-decoration: none;
   border-left: 2px solid #4C5C72;
 }
-nav a:nth-of-type(4) {
+nav a:nth-of-type(5) {
   border-right: 2px solid #4C5C72;
 }
 
@@ -29,6 +33,21 @@ nav a:hover {
   background-color: #303a47;
   transition: .5s;
 }
+nav a:nth-of-type(1) {
+  border-left: 0;
+  top: 25%;
+  left: 10px;
+  font-size: 35px;
+  color: #EAC9A0;
+  position: absolute;
+  padding: 0;
+}
+nav a:nth-of-type(1):hover {
+  background-color: #303F4B;
+  color: #d1d0f2;
+  transition: .5s;
+}
+
 head p {
   font-size: 0px;
 }
@@ -46,59 +65,11 @@ head p {
     display: inline-block;
 
 }
-
-/* .toolbar {
-  z-index: 1;
-  top: 0;
-  left: 0;
-
-  font-size: 25px;
-  font-weight: bold;
-  position: fixed;
-  text-align: center;
-  width: 100%;
-  background-color: #303F4B;
-  box-shadow: 0px 0px 10px #373737;
-}
-.toolbar p {
-  font-size: 0px;
-}
-@media only screen and (min-width: 1200px) {
-  .toolbar p {
-    font-size: 35px;
-    float: left;
-    color: #EAC9A0;
-    margin: -0px -200% 0 20px;
-  }
-}
-.toolbar ul {
-  list-style-type: none;
-  margin: 0 auto;
-
-}
-
-.toolbar li a {
-    display: inline-block;
-  border-left: 2px solid #4C5C72;
-}
-.toolbar li:last-child a {
-  border-right: 2px solid #4C5C72;
-}
-.toolbar a {
-  text-decoration: none;
-  padding: 0px 6%;
-  color: #d1d0f2;
-
-}
-.toolbar li a:hover {
-  background-color: #303a47;
-  transition: .5s;
-} */
 </style>
 <head>
-  <p>Victor Perez</p>
   <nav>
     <center>
+    <a href=http://localhost:4000/index.html>Victor Perez</a>
 		<a href=http://localhost:4000/index.html>Blog</a>
     <a href=/topics.html>Topics</a>
     <a href=/about.html>About</a>
@@ -127,9 +98,8 @@ head p {
     </header>
   <hr noshade>
   <div class="post-content">
-    <div class="post-date">01 February 2018 • Victor Perez</div>
-
-    <p>In modern American society, there’s always this notation of forward motion. As it stands, we as a country are always “pressing the gas” for better or for worse. If you aren’t moving forward, you are a waste of space. You are left behind. You are forgotten. My hometown is not exempt from these suffocating societal bindings. My hometown has never stopped growing and expanding. Every time I come back from a semester of college, another Starbucks has opened up. Commutes take an additional 5 minutes. Housing values rise by a huge factor. The closest grocery store has once again been bought out and remodeled.</p>
+      <div class="post-date">01 February 2018 • Victor Perez</div>
+      <p>In modern American society, there’s always this notation of forward motion. As it stands, we as a country are always “pressing the gas” for better or for worse. If you aren’t moving forward, you are a waste of space. You are left behind. You are forgotten. My hometown is not exempt from these suffocating societal bindings. My hometown has never stopped growing and expanding. Every time I come back from a semester of college, another Starbucks has opened up. Commutes take an additional 5 minutes. Housing values rise by a huge factor. The closest grocery store has once again been bought out and remodeled.</p>
 
 <p>It wasn’t like this when I was younger. Or at least I never noticed it. The suburbs are no place for a child, despite the fact that they were constructed for the sole purpose of housing growing families. I spent most of my time in the living room, on the computer. In my peripheral I was comforted by the soft “livings” of my family. My father reading on the couch, or my mother dusting the shelf above the fireplace. In the evening we would all watch the television “together”, as is American tradition. And by watch I mean, the television would be on and playing a show, and everyone would be in the general vicinity, aside from my sister. I would still be on the computer of course, and my father would still be reading, but we would all be passively paying attention to what was going on. Occasional soft chuckles would burst from any one of us, and the ambient noise of keyboard typing and page turning hummed in the background.</p>
 

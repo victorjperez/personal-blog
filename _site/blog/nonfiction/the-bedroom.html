@@ -10,6 +10,7 @@ nav {
   z-index: 1;
   position: fixed;
   top: 0;
+  left: 0;
   width: 100%;
 }
 
@@ -17,11 +18,14 @@ nav a {
   margin: 0 auto;
   display: inline-block;
   text-align: center;
+  font-size: 25px;
+  font-weight: bold;
   padding: 1% 3%;
+  color: #d1d0f2;
   text-decoration: none;
   border-left: 2px solid #4C5C72;
 }
-nav a:nth-of-type(4) {
+nav a:nth-of-type(5) {
   border-right: 2px solid #4C5C72;
 }
 
@@ -29,6 +33,21 @@ nav a:hover {
   background-color: #303a47;
   transition: .5s;
 }
+nav a:nth-of-type(1) {
+  border-left: 0;
+  top: 25%;
+  left: 10px;
+  font-size: 35px;
+  color: #EAC9A0;
+  position: absolute;
+  padding: 0;
+}
+nav a:nth-of-type(1):hover {
+  background-color: #303F4B;
+  color: #d1d0f2;
+  transition: .5s;
+}
+
 head p {
   font-size: 0px;
 }
@@ -46,59 +65,11 @@ head p {
     display: inline-block;
 
 }
-
-/* .toolbar {
-  z-index: 1;
-  top: 0;
-  left: 0;
-
-  font-size: 25px;
-  font-weight: bold;
-  position: fixed;
-  text-align: center;
-  width: 100%;
-  background-color: #303F4B;
-  box-shadow: 0px 0px 10px #373737;
-}
-.toolbar p {
-  font-size: 0px;
-}
-@media only screen and (min-width: 1200px) {
-  .toolbar p {
-    font-size: 35px;
-    float: left;
-    color: #EAC9A0;
-    margin: -0px -200% 0 20px;
-  }
-}
-.toolbar ul {
-  list-style-type: none;
-  margin: 0 auto;
-
-}
-
-.toolbar li a {
-    display: inline-block;
-  border-left: 2px solid #4C5C72;
-}
-.toolbar li:last-child a {
-  border-right: 2px solid #4C5C72;
-}
-.toolbar a {
-  text-decoration: none;
-  padding: 0px 6%;
-  color: #d1d0f2;
-
-}
-.toolbar li a:hover {
-  background-color: #303a47;
-  transition: .5s;
-} */
 </style>
 <head>
-  <p>Victor Perez</p>
   <nav>
     <center>
+    <a href=http://localhost:4000/index.html>Victor Perez</a>
 		<a href=http://localhost:4000/index.html>Blog</a>
     <a href=/topics.html>Topics</a>
     <a href=/about.html>About</a>
@@ -127,9 +98,8 @@ head p {
     </header>
   <hr noshade>
   <div class="post-content">
-    <div class="post-date">11 January 2018 • Victor Perez</div>
-
-    <p>The memory is faint, and very old. What it lacks in substance it makes up for with the very visceral senses and feelings. It’s an insignificant memory, mundane even. I am very young, living in the countryside of northern New York. The aroma of sawdust filled the room prominently, for reasons that are unknown and quite frankly not relevant. Lying down on my bed next to the sunny window, I have a book in hand. With the only source of light in the room being the window, I lean in, lazily reading a novel while a subtle, but relentless pounding fills my head. The pounding is restrictive, and only highlights my unfortunate situation: I am trapped in this room.</p>
+      <div class="post-date">11 January 2018 • Victor Perez</div>
+      <p>The memory is faint, and very old. What it lacks in substance it makes up for with the very visceral senses and feelings. It’s an insignificant memory, mundane even. I am very young, living in the countryside of northern New York. The aroma of sawdust filled the room prominently, for reasons that are unknown and quite frankly not relevant. Lying down on my bed next to the sunny window, I have a book in hand. With the only source of light in the room being the window, I lean in, lazily reading a novel while a subtle, but relentless pounding fills my head. The pounding is restrictive, and only highlights my unfortunate situation: I am trapped in this room.</p>
 
 <p>The feeling of being trapped is not a unique one. Whether it be literal or metaphorical, being trapped has constantly crept up again and again in my life. It brings out a very primal sort of panic in me, akin to drowning. As much as I fight, the fact that there is no escape doesn’t change. The only escape comes from what I choose to distract myself with. Rolling around in my bed, the book was my ward of choice for this occasion. Suddenly, the slow creaking of a door resonates throughout the room. Almost instinctively, I ensure the book is hidden from sight and freeze. Despite being so young, I am not naive enough to think my mother is fooled by this move. After all, my earlier protest was very vocal and passionate. I always hated napping.</p>
 
