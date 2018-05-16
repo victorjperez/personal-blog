@@ -4,7 +4,7 @@ title:  "Review: The Crying Light by Antony & The Johnsons"
 date:   2012-10-19 00:50:34 -0400
 author: "Victor Perez"
 categories: [early works, music]
-image: "archive.png"
+image: "archive.jpg"
 excerpt_separator: <!--more-->
 ---
 

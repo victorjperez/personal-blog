@@ -4,7 +4,7 @@ title:  "Privacy and Propaganda"
 date:   2014-02-14 00:50:34 -0400
 author: "Victor Perez"
 categories: [early works, tech, satire]
-image: "archive.png"
+image: "archive.jpg"
 excerpt_separator: <!--more-->
 ---
 
