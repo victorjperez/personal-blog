@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
@@ -194,3 +195,258 @@ table td { border: 1px solid #e8e8e8; }
 .highlight .vg { color: #008080; }
 .highlight .vi { color: #008080; }
 .highlight .il { color: #099; }
+=======
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
+
+body {
+  font-family: 'Josefin Slab', serif;
+  background-color: #eee2d2;
+  margin-top: 3%;
+}
+
+.page {
+  z-index: 0;
+  font-size: 22px;
+  font-weight: 600;
+  margin: 6% -8px;
+  color: #373737;
+  text-align: center;
+  background-color: #EAC9A0;
+  padding: 20px 5%;
+  max-width: 750px;
+}
+
+.page a {
+  text-decoration: none;
+  font-style: italic;
+  color: inherit;
+}
+
+.page h4 a {
+  text-transform: capitalize;
+}
+
+.page p {
+  line-height: 1.5;
+  font-size: 22px;
+}
+
+.post-title {
+  font-size: 70px;
+  line-height: 1.1;
+  text-align: center;
+  z-index: -1;
+  margin: 20px auto;
+}
+
+.post-content {
+  text-align: left;
+  min-width: 200px;
+  min-height: 200px;
+  line-height: 30px;
+}
+
+.post-date {
+  font-size: 23px;
+  text-align: center;
+}
+
+.post img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  max-width: 50%;
+  max-height: 50%;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 75px;
+  margin: 0 auto;
+}
+
+h2 {
+  margin: 0 auto;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 30px;
+  margin: 0 auto;
+  text-transform: capitalize;
+}
+h3:hover{
+  -webkit-transition-duration: .5s;
+  transition-duration: .5s;
+  color: #44596a;
+}
+
+h4 {
+  font-size: 25px;
+  margin: 0 auto;
+}
+
+hr {
+  border-top: 1px solid #373737;
+  width: 200px;
+}
+
+.titleBlock {
+  padding: 40px 0;
+}
+
+.home ul {
+  list-style-type: none;
+  margin-left: -40px;
+}
+
+.post-list {
+  list-style-type: none;
+  margin-left: -40px;
+}
+
+.post-preview {
+  margin: 0 30px;
+  padding: 0 0 10px;
+}
+
+.post-preview p {
+  padding: 0;
+  text-align: left;
+  margin: -10px -40px 20px;
+  line-height: 30px;
+  font-size: 22px;
+}
+
+.post-preview img {
+  object-fit: cover;
+  height: 225px;
+  width: 100%;
+  filter: brightness(30%);
+}
+
+.blogImage {
+  position: relative;
+  padding-bottom: 20px;
+}
+
+.blogImage .post-link {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-weight: bolder;
+  color: #d1d0f2;
+  text-shadow: 5px 5px 4px black;
+  transform: translate(-50%, -50%);
+  font-size: 40px;
+}
+
+.topic {
+  display: flex;
+  flex-flow: row wrap;
+  margin: 5px;
+  height: 12em;
+  margin-bottom: 2em;
+  justify-content: space-between;
+}
+
+.topic a {
+  display: flex;
+  float: left;
+  position: relative;
+  width: 35%;
+  height: 60%;
+  min-width: 150px;
+  margin: 0;
+  margin-bottom: -15px;
+}
+
+.topic a p {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  font-weight: bolder;
+  color: #d1d0f2;
+  text-shadow: 3px 3px 1px black;
+  transform: translate(-50%, -50%);
+  font-size: 23px;
+}
+
+.topic a img {
+  width: 100%;
+  height: 80%;
+  filter: brightness(30%);
+}
+
+.topic a img:hover {
+  filter: brightness(50%);
+  -webkit-transition-duration: .5s;
+  transition-duration: .5s;
+}
+
+.categories {
+  margin-top: 20px;
+}
+
+a.seeMore {
+ height: 5.8em;
+ background-color: #4C5C72;
+}
+
+.topic a.seeMore:hover {
+  background-color:  #303F4B;
+  -webkit-transition-duration: .5s;
+  transition-duration: .5s;
+}
+a.seeMore p {
+  text-shadow: none;
+}
+
+.pagination {
+  margin-top: 30px;
+}
+
+.pagination a {
+  background-color: #303F4B;
+  color: #EAC9A0;
+  padding: 4px;
+  font-style: normal;
+  border: 1px solid #26333d;
+  border-radius: 2px;
+}
+@media only screen and (min-width: 900px) {
+  /* For desktop: */
+  .post-date {
+    text-align: left;
+  }
+  .page {
+    margin: 0 auto;
+    box-shadow: 0 0 10px #373737;
+    padding: 20px 10% 20px 10%;
+  }
+  .post-preview p {
+    padding: 0 40px 0;
+    margin: -10px 0 20px;
+  }
+  .post-preview img {
+    height: 450px;
+    width: 100%;
+  }
+  .blogImage .post-link {
+    font-size: 55px;
+  }
+  .topic {
+    height: 9em;
+  }
+  .topic a {
+    width: 24%;
+    height: 100%;
+  }
+  a.seeMore {
+   height: 7.2em;
+  }
+}
+>>>>>>> 94476c2d1c49f2345ba8b89d18fcf06d11533935
