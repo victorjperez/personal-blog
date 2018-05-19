@@ -1,7 +1,38 @@
+--- 
+layout: default 
 ---
-layout: default
----
-<img src="lmaolinkedin.png">
-<p>Summary about me</p>
-<p>Email: </p>
-<p>Other</p>
+<style type="text/css" media="screen">
+    .profile {
+        margin: 20px auto;
+        max-width: 600px;
+        padding-bottom: 30px;
+    }
+
+    .profile p {
+        text-align: center;
+        font-size: 20px;
+    }
+
+    .profile img {
+        border: 2px solid #303F4B;
+        border-radius: 100%;
+
+    }
+
+    @media only screen and (min-width: 900px) {
+        .profile p {
+            text-align: left;
+        }
+        .profile img {
+            margin-right: 20px;
+            float: left;
+        }
+    }
+</style>
+<div class="profile">
+    <img src="{{site.url }}/assets/img/profilephoto.jpg" height="250" width="250">
+    <p>I am a programmer, writer, and student majoring in computer science at West Virginia University. I am an aspiring full-stack
+        web developer and currently reside in Morgantown, WV.</p>
+    <p>Email: vjperez@mix.wvu.edu</p>
+</div>
+<center>***</center>

@@ -1,18 +1,20 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
 <link href={{ "/assets/main.css" | absolute_url }} rel="stylesheet">
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
-  {% include head.html %}
+<meta name="viewport" content="width=device-width, initial-scale=1" /> {% include head.html %}
 
-  <body>
-    <div class="titleBlock">
-      <center>
-        <h1>Victor Perez</h1>
-		    <h2>Thoughts, opinions, and stories<h2>
-      </center>
-    </div>
-    <main class="page">
-        {{ content }}
-  </body>
-     {% include footer.html %}
+<body>
+  <div class="titleBlock">
+    <center>
+      <h1>Victor Perez</h1>
+      <h2>Thoughts, opinions, and stories
+        <h2>
+    </center>
+  </div>
+  <main class="page">
+    {{ content }}
+  </main>
+  {% include footer.html %}
+</body>
+
 </html>
