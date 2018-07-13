@@ -16,7 +16,7 @@ layout: default
 
 		{% endif %}
 	 	<a href="{{ post.url | relative_url }}">
-			<img src="{{site.url}}/assets/img/{{ post.image }}"></img>
+			<img src="{{ site.url }}/Personal-Blog/assets/img/{{ post.image }}"></img>
 		<p>{{ post.title | escape | truncate: 29, '...' }}</p></a>
 	{% endfor %}
 </div>
