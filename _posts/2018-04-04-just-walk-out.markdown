@@ -13,4 +13,4 @@ There is a curious image I’ve found that relates to my experiences with Apathy
 In both of these cases, the decisions are affected by the ultimately meaningless perception that other people will have of us. In order to avoid these sorts of situations, there needs to be a nugget of apathy available to lean on. If people think less of you for doing something that you truly believe needs to be done, that’s their problem. At least, that’s the way I choose to live my life.
 
 
-![alt text](https://victorjperez.github.io/assets/img/justwalkout.jpg "Picture in question")
+![alt text](https://victorjperez.github.io/Personal-Blog/assets/img/justwalkout.jpg "Picture in question")

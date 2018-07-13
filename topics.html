@@ -2,21 +2,21 @@
 layout: default
 ---
 {% for topic in site.topics %}
-<h3><a href="{{ baseurl }}/topic/{{ topic }}.html">{{ topic }}</a></h3>
+<h3><a href="{{ site.baseurl }}/topic/{{ topic }}.html">{{ topic }}</a></h3>
 <hr noshade width="200">
 <div class="topic">
 	{% assign topicPosts =  site.categories[topic].size %}
 	{% for post in site.categories[topic] %}
 		{% if forloop.index == 4 %}
 			{% if topicPosts > 4 %}
-					<a class="seeMore" href="{{ baseurl }}/topic/{{ topic }}.html">
+					<a class="seeMore" href="{{ site.baseurl }}/topic/{{ topic }}.html">
 						<p>More ></p></a>
 					{% break %}
 			{% endif %}
 
 		{% endif %}
 	 	<a href="{{ post.url | relative_url }}">
-			<img src="{{ site.url }}/Personal-Blog/assets/img/{{ post.image }}"></img>
+			<img src="{{ site.url }}/{{site.baseurl}}/assets/img/{{ post.image }}"></img>
 		<p>{{ post.title | escape | truncate: 29, '...' }}</p></a>
 	{% endfor %}
 </div>
