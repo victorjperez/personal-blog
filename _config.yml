@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: /personal-blog
 url:
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username: jekyll
 permalink: blog/:categories/:title.html
 # Build settings
 defaults:
@@ -34,7 +34,7 @@ markdown: kramdown
 theme: minima
 paginate: 6
 paginate_path: "/latest/page:num/"
-topics: [nonfiction, tech, music, early works, satire, video games]
+topics: [nonfiction, tech, music, fashion, early works, satire, video games]
 plugins:
   - jekyll-feed
   - jekyll-paginate

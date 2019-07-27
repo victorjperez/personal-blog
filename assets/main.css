@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
+@import url("https://fonts.googleapis.com/css?family=Josefin+Slab");
 
 body {
-  font-family: 'Josefin Slab', serif;
+  font-family: "Josefin Slab", serif;
   background-color: #eee2d2;
   margin-top: 3%;
 }
@@ -13,7 +13,7 @@ body {
   margin: 6% -8px;
   color: #373737;
   text-align: center;
-  background-color: #EAC9A0;
+  background-color: #eac9a0;
   padding: 20px 5%;
   max-width: 800px;
 }
@@ -47,7 +47,10 @@ body {
   min-height: 200px;
   line-height: 30px;
 }
-
+.post-content a {
+  color: #303f4b;
+  text-decoration: underline;
+}
 .post-date {
   font-size: 22px;
   text-align: center;
@@ -80,9 +83,9 @@ h3 {
   margin: 0 auto;
   text-transform: capitalize;
 }
-h3:hover{
-  -webkit-transition-duration: .5s;
-  transition-duration: .5s;
+h3:hover {
+  -webkit-transition-duration: 0.5s;
+  transition-duration: 0.5s;
   color: #44596a;
 }
 
@@ -161,7 +164,6 @@ hr {
   width: 100%;
   height: 200px;
   margin: 0;
-
 }
 
 .topic a p {
@@ -185,8 +187,8 @@ hr {
 
 .topic a img:hover {
   filter: brightness(50%);
-  -webkit-transition-duration: .5s;
-  transition-duration: .5s;
+  -webkit-transition-duration: 0.5s;
+  transition-duration: 0.5s;
 }
 
 .categories {
@@ -194,14 +196,14 @@ hr {
 }
 
 a.seeMore {
- height: 5.8em;
- background-color: #4C5C72;
+  height: 5.8em;
+  background-color: #4c5c72;
 }
 
 .topic a.seeMore:hover {
-  background-color:  #303F4B;
-  -webkit-transition-duration: .5s;
-  transition-duration: .5s;
+  background-color: #303f4b;
+  -webkit-transition-duration: 0.5s;
+  transition-duration: 0.5s;
 }
 a.seeMore p {
   text-shadow: none;
@@ -212,8 +214,8 @@ a.seeMore p {
 }
 
 .pagination a {
-  background-color: #303F4B;
-  color: #EAC9A0;
+  background-color: #303f4b;
+  color: #eac9a0;
   padding: 4px;
   font-style: normal;
   border: 1px solid #26333d;
@@ -239,7 +241,7 @@ a.seeMore p {
   }
 
   a.seeMore {
-   height: 9em;
+    height: 9em;
   }
 }
 @media only screen and (min-width: 900px) {
@@ -274,7 +276,6 @@ a.seeMore p {
     top: 30%;
   }
   a.seeMore {
-   height: 7.2em;
+    height: 7.2em;
   }
 }
-
