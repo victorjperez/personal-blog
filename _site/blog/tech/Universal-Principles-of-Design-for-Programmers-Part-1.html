@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<link href=/personal-blog/assets/main.css rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <style type="text/css">
+nav {
+  overflow: hidden;
+  background-color: #303F4B;
+  box-shadow: 0px 0px 10px #373737;
+  z-index: 1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+nav a {
+  margin: 0 auto;
+  display: inline-block;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 2% 3%;
+  color: #d1d0f2;
+  text-decoration: none;
+  border-left: 2px solid #4C5C72;
+}
+nav a:nth-of-type(5) {
+  border-right: 2px solid #4C5C72;
+}
+
+nav a:hover {
+  background-color: #303a47;
+  transition: .5s;
+}
+nav a:nth-of-type(1) {
+  font-size: 0;
+  border-left: 0;
+  top: 25%;
+  left: 10px;
+  color: #EAC9A0;
+  position: absolute;
+  padding: 0;
+}
+nav a:nth-of-type(1):hover {
+  background-color: #303F4B;
+  color: #d1d0f2;
+  transition: .5s;
+}
+@media only screen and (min-width: 900px) {
+  nav a:nth-of-type(1) {
+    font-size: 35px;
+  }
+  nav a{
+    padding: 1% 3%;
+    font-size: 25px;
+  }
+}
+</style>
+<head>
+  <nav>
+    <center>
+    <a href=/personal-blog/index.html>Victor Perez</a>
+		<a href=/personal-blog/index.html>Blog</a>
+    <a href=/personal-blog/topics.html>Topics</a>
+    <a href=/personal-blog/about.html>About</a>
+    <a href="https://victorjperez.github.io/">Portfolio</a>
+  </center>
+	</nav>
+	<title>Universal Principles of Design for Programmers: Part 1</title>
+</head>
+
+
+  <body>
+    <main class="page">
+        <article class="post">
+  <header class="post-header">
+    <h1 class="post-title">Universal Principles of Design for Programmers: Part 1</h1>
+
+    <h4>
+      
+      <a href="/personal-blog/topic/tech.html">
+        tech</a
+      >
+      <!-- logic for making sure "//" only prints between categories-->
+       
+    </h4>
+  </header>
+  <hr noshade />
+  <div class="post-content">
+    <div class="post-date">
+      28 August 2019 • Victor Perez
+    </div>
+    <p>During my third year of studying Computer Science, I wanted to vary up my schedule and add an English class to mix things up. I ended up taking Multimedia Writing, an upper-level English class intended for writers and designers. Despite being unnecessary for my degree, that class ended up being an incredibly valuable learning experience for me.</p>
+
+<h2 id="table-of-contents">Table Of Contents</h2>
+
+<ul>
+  <li><a href="#what">What are Universal Principles of Design?</a></li>
+  <li><a href="#80/20">80/20 Rule</a></li>
+  <li><a href="#Aesthetic-Usability">Aesthetic-Usability Effect</a></li>
+  <li><a href="#Affordance">Affordance</a></li>
+  <li><a href="#Archetypes">Archetypes</a></li>
+  <li><a href="#Chunking">Chunking</a></li>
+  <li><a href="#Closure">Closure</a></li>
+  <li><a href="#Conclusion">Conclusion</a></li>
+</ul>
+
+<h3 id="-what-are-universal-principles-of-design-">🤷‍ What Are “Universal Principles of Design?” <a name="what"></a></h3>
+
+<p>As the name suggests, <strong>universal principles of design</strong> are design principles that can be applied to many different disciplines. You could be organizing your house, making a poster, or even writing an operating system and use the same principles for all three. In this series, I’ll be referencing the book <em>Universal Principles of Design</em> by <em>William Lidwell</em>, an invaluable reference for design of any kind. In this case, however, I’ll be taking specific ones and explaining how they relate to programming.</p>
+
+<h3 id="-8020-rule-">📏 80/20 Rule <a name="80/20"></a></h3>
+
+<p><em>A high percentage of effects in any large system are caused by a low percentage of variables.</em></p>
+
+<ul>
+  <li>80% of effort in a project is in the last 20% of work</li>
+  <li>80% of bugs are caused by 20% of the program</li>
+  <li>80% of application usage involves 20% of the functions</li>
+</ul>
+
+<p>If you’ve ever worked on a large application of any kind, you’ve probably figured out by now that most users will never use every single feature. It’s more likely the same handful of functions are used all the time, while the edge-case functions are rarely used, if at all. That’s not to say that handling edge cases isn’t important, but you can’t let the scope of your application get out of control when working towards strict deadlines.</p>
+
+<h3 id="-aesthetic-usability-effect">🖼 Aesthetic-Usability Effect<a name="Aesthetic-Usability"></a></h3>
+
+<p><em>Aesthetic designs are perceived as easier to use than less-aesthetic designs.</em></p>
+
+<p>Ah yes, the dreaded programmer UI. At some point or another, we’ve all whipped up a quick GUI to test out the functionality of what we’re working on. Sadly, that’s not good enough when it comes to the final product. It doesn’t matter how bug-free or perfect a piece of software is; if it’s ugly, it’s going to be used less. A designer can be just as important to a programmer when it comes to the success of your application.</p>
+
+<h3 id="-affordance">🚪 Affordance<a name="Affordance"></a></h3>
+
+<p><em>A property in which the physical characteristics of an object or environment influence its function.</em></p>
+
+<p>This one goes out to all the people who couldn’t stop thinking about doors after reading <em>The Design of Everyday Things</em>. Things users interact with should make sense. A link should look like a link. A button should look like a button. Attention to detail is important, and the less time a user spends thinking about your design, the less you need to explain it.</p>
+
+<h3 id="-archetypes">💾 Archetypes<a name="Archetypes"></a></h3>
+
+<p><em>Universal patterns of theme and form resulting from innate biases or dispositions.</em></p>
+
+<p>Naming remains an incredibly important part of programming. So much so that conventions and style guides are written to keep everyone on the same page. You can also use archetypes to make complex functions easier to understand in code. For example: say you have a program that stores a list of students, and a function that removes students with a GPA under 2.0. Naming your function <code class="highlighter-rouge">removeStudents()</code> is too ambiguous. You could try something longer such as <code class="highlighter-rouge">removeStudentsUnderGPALimit()</code>, which is unambiguous, but that reduces readability. A good solution could be <code class="highlighter-rouge">expellForGPA()</code>, as expelling is a real-world pattern that most people will be familiar with.</p>
+
+<h3 id="-chunking">🎒 Chunking<a name="Chunking"></a></h3>
+
+<p><em>A technique of combining many units of information into a limited number of units or chunks, so that the information is easier to process and remember.</em></p>
+
+<p>Information overload can be a big issue when displaying necessary data to both users and collaborators. A classic example I see is when beginners first learn about commenting code and then proceed to fill the beginning of every file with a large multi-line comment explaining the purpose of every object, variable, and function. Large walls of text often end up being ignored, so break up your comments when you can.</p>
+
+<h3 id="-closure">🧩 Closure<a name="Closure"></a></h3>
+
+<p><em>A tendency to perceive a set of individual elements as a single, recognizable pattern, rather than multiple, individual elements.</em></p>
+
+<p>This is a different definition of closure than the programming one you’re probably used to seeing. A closure in design refers to how our brains naturally look for patterns. In UI, you can leverage this to simplify the amount of information displayed on the screen (for both performance and readability’s sake). In code, you can use the thought process behind this principle to make things more readable. Take JavaScript’s <code class="highlighter-rouge">Array.prototype.map()</code> for example.</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">let</span> <span class="nx">list</span> <span class="o">=</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">];</span>
+<span class="k">for</span> <span class="p">(</span><span class="kd">let</span> <span class="nx">item</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="nx">item</span> <span class="o">&lt;</span> <span class="nx">list</span><span class="p">.</span><span class="nx">length</span><span class="p">;</span> <span class="nx">item</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+  <span class="nx">list</span><span class="p">[</span><span class="nx">item</span><span class="p">]</span> <span class="o">=</span> <span class="nx">list</span><span class="p">[</span><span class="nx">item</span><span class="p">]</span> <span class="o">*</span> <span class="mi">2</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>While iterating through arrays is trivial, it still takes mental overhead when reading to ensure that everything is behaving as expected. We can simplify this using <code class="highlighter-rouge">Array.prototype.map()</code></p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">let</span> <span class="nx">list</span> <span class="o">=</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">];</span>
+<span class="kd">let</span> <span class="nx">doubledList</span> <span class="o">=</span> <span class="nx">list</span><span class="p">.</span><span class="nx">map</span><span class="p">(</span><span class="nx">item</span> <span class="o">=&gt;</span> <span class="nx">item</span> <span class="o">*</span> <span class="mi">2</span><span class="p">);</span>
+</code></pre></div></div>
+
+<p>Once you learn how this pattern works, your mind will subconsciously tell you “an action is being taken on every item in this list.” Under the hood, it might just be a for loop, but we don’t have to think about it.</p>
+
+<h3 id="-conclusion">🙇‍ Conclusion<a name="Conclusion"></a></h3>
+
+<p>This concludes this part of <em>Universal Principles of Design for Programmers</em>! Hopefully these principles made you think about what design can do for you. More principles to come!</p>
+
+  </div>
+  ***
+</article>
+
+    </main>
+  <center>
+    <div class="cclicense">
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+            <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" />
+        </a>
+        <br />This work is licensed under a
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. </div>
+</center>
+  </body>
+
+</html>
