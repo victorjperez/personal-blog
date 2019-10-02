@@ -2,7 +2,7 @@
 
 body {
   font-family: "Josefin Slab", serif;
-  background-color: #eee2d2;
+  background-color: white;
   margin-top: 3%;
 }
 
@@ -13,7 +13,7 @@ body {
   margin: 6% -8px;
   color: #373737;
   text-align: center;
-  background-color: #eac9a0;
+  background-color: #ebd5b3;
   padding: 20px 5%;
   max-width: 800px;
 }
@@ -45,7 +45,7 @@ body {
   text-align: left;
   min-width: 200px;
   margin: 0 auto;
-  max-width: 700px;
+  max-width: 600px;
   min-height: 200px;
   line-height: 30px;
 }
@@ -217,7 +217,7 @@ a.seeMore p {
 
 .pagination a {
   background-color: #303f4b;
-  color: #eac9a0;
+  color: #ebd5b3;
   padding: 4px;
   font-style: normal;
   border: 1px solid #26333d;

@@ -39,4 +39,4 @@ The years passed, and eventually, I came to realize that the only time people re
 
 **With jaw fallen in // In fallen jaw**
 
-In five days, the elastics holding my jaw together will be removed. I will be able to talk easier, and drink alcohol, but I will still be unable to eat for two weeks more. Four weeks with a closed jaw is a small sacrifice for such a life-changing surgery. Even with my social anxieties, going about my day being unable to speak clearly is worth it. I do wonder though; why did I handle it so well? Why am I so calm? Did my surgery really cause that?
+In five days, the elastics holding my jaw together will be removed. I will be able to talk easier, and drink alcohol, but I will still be unable to eat for two weeks more. Six weeks with a closed jaw is a small sacrifice for such a life-changing surgery. Even with my social anxieties, going about my day being unable to speak clearly is worth it. I do wonder though; why did I handle it so well? Why am I so calm? Did my surgery really cause that?
