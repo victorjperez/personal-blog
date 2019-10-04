@@ -48,6 +48,8 @@ body {
   max-width: 600px;
   min-height: 200px;
   line-height: 30px;
+  font-weight: unset;
+  text-decoration: unset;
 }
 .post-content a {
   color: #303f4b;
