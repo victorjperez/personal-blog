@@ -1,0 +1,27 @@
+---
+layout: Page
+title: "On Vestoj"
+date: 2019-11-12 05:50:37 -0400
+author: "Victor J. Perez III - II"
+categories: [nonfiction, fashion]
+image: "vestoj.png"
+excerpt_separator: <!--more-->
+---
+
+_This essay was published in Malocclusion: A Post-Bimaxillary Osteotomy Nonfiction Journal, which can be found [here](https://victorjperez.github.io/malocclusion)_
+
+To write creative nonfiction is to let yourself be vulnerable. You lay bare scars that are otherwise invisible, bring out painful memories that would rather be forgotten. Fashion, conversely, focuses on exclusivity and subtly. Fashion exists to hide and act while communicating silently, if at all. As such, finding creative nonfiction on the topic of fashion is nontrivial, and I spent a lot of time searching until I found myself on the homepage of _Vestoj.com_. The design stood out to me from traditional fashion related websites: it had a simple, ad-free layout. There was a large focus on the text with sparse yet impactful photography, and every article had a diverse set of sources.
+
+<!--more-->
+
+After reading the article _Beggars And Choosers_ by Johannes Lenhard, I was hooked. Lenhard wasn’t just talking about clothes or runway shows. He wrote about poverty, and psychology, and how they could be viewed under the lens of fashion. It’s a rare thing to have a conversation about, and Vestoj housed a goldmine of articles just like it. I wasn’t seeing random people talk about dressing for dates, or the new streetwear “label” (five graphic t-shirts) they were creating. I was seeing the connection between fashion and everyday life.
+
+Of course, I’m explaining it in the most dramatic way possible, if only to mirror the feeling I was overcome with upon my discovery. As soon as the eighth issue, _On Authenticity_, was released, I paid \$30 for a copy and read it cover to cover.
+
+Immediately, the essay _Acting As If_ by Michelle Millar Fisher jumped out at me. It details the link between wearing counterfeit clothing and feeling fake or inauthentic. Beyond that, those emotions influenced the actions of the wearers to be more dishonest, as well as perceiving others as more dishonest. That observation can be extended to individual thoughts and actions of a person; to believe you are something and act like it is to be that thing. This is the basis for cognitive behavioral therapy, which I eventually came to use a great deal to become free of my perceived self.
+
+That same week, I hosted a “No Limits” radio station (A four hour segment of whatever audio content you could dream of), and read the article _The Making of a Star_ by Philippa Snow, another impactful essay on performativity, live on air while Aphex Twin played in the background. I wanted everyone to hear what these people had to say.
+
+Vestoj remains an important part of my life, enough to have a special place in this journal. Nearly everything I write and design, from print to website, is inspired by it. It’s fueled my interest in fashion and society, and even my own writing. I’m grateful to the London College of Fashion for funding it, and for Anja Aronowsky Cronberg for their founding and editing contributions.
+
+_Vestoj is a forum where academia, the museum world and the fashion industry can work together and with active communication. We write about the cultural phenomenon that is fashion in a manner that opens up for dialogue between theory and practice in order to raise awareness for fashion as a cultural phenomena and field of research and cultivate an even greater understanding for the discipline. Vestoj will exist outside of seasonally-based trends and news-focused articles. Instead we aim to encourage and champion the critical and independent voice within fashion as well as absolute creative freedom. In order to ensure that we remain free in thought and action Vestoj will have no advertising. Vestoj focuses solely on sartorial matters, bringing together academia and industry in a bid to combine academic theory, critical thinking and a bit of good old fashioned glamour._

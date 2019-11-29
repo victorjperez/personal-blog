@@ -1,0 +1,43 @@
+---
+layout: Page
+title: "Sisyphus"
+date: 2019-11-12 05:50:47 -0400
+author: "Victor J. Perez III - II"
+categories: [nonfiction, music]
+image: "sisyphus.png"
+excerpt_separator: <!--more-->
+---
+
+_This essay was published in Malocclusion: A Post-Bimaxillary Osteotomy Nonfiction Journal, which can be found [here](https://victorjperez.github.io/malocclusion)_
+
+<center><b><i>Body Memory</i></b></center>
+
+I remember looking through the cold, empty room. Posters plastered the walls, and stickers lined the desks. I scanned through documents and browsed through files, looking for anything of interest on the events that transpired before my arrival. Amongst the mess, I found packets of macaroni and cheese, a pair of panties, and signs of a herculean effort to keep a college radio station running to the best of its ability. There was a constant effort to keep the dying art of radio alive, and eventually it all came crashing down.
+
+<!--more-->
+
+<center><b><i>Paradisia</i></b></center>
+
+With most of the radio station’s key members gone, I eventually came to the realization that if I wanted to do something, I could just do it. I needn’t ask for permission, and provided that I wasn’t breaking any major rules, the absent Program Director wouldn’t say anything. So I spent most of my waking free time at the station. I would do homework there, sit in on people’s shifts, and go on air for eleven to fifteen hours a week. As a consequence of being there so much, I became close to many of the people there and encouraged them to spend their time there as well.
+
+<center><b><i>Claimstaker</i></b></center>
+
+My efforts did not go unnoticed. At the beginning of my second semester, the interim general manager encouraged me to apply for the Program Director position, which unbeknownst to me, was combined with the Station Manager role. I applied, interviewed, and got the position over the person who I assumed was more qualified. That person convinced me my apprehensions and insecurities about my own qualifications were correct, and I stepped down and took a role as their assistant. That was a very _Victor I_ move of me.
+
+<center><b><i>Tabula Rasa</i></b></center>
+
+At one point, a certain person talked about reviving a historied station publication, you know the one. It seemed like a good enough idea; what better way to promote the station and show the university we existed? So we worked together to get things started. Eventually, I took it upon myself to work on the editing and layouts, as I had some experience with web development and there is some overlap in the skills necessary. I didn’t have much to go off of: the style guide binder mysteriously disappeared one day, leaving me with a single copy of the previous edition of the publication. All I could do was press on, and keep working as best I could.
+
+<center><b><i>Loss</i></b></center>
+
+When it came time to hire a new General Manager, I was there at the interview. When told there was one candidate, you can imagine how frustrated I was with the inevitability; the university had chosen, and the student staff was there to have the illusion of agency. Even so, I barraged the candidate with questions, trying to figure out exactly what the outlook of the future would be. When I asked why there was only one candidate, I came to my conclusion.
+
+<center><b><i>Sue Me</i></b></center>
+
+I’ve never burned out harder than in my second semester as “Assistant Program Director.” Putting all of my free time into the station for so long was not healthy, and the one I was assisting was not doing their job. So I went to the recently hired General Manager and told them that I could not keep things up. And then I told them again: something needed to be done. After the third time, I sat down for an hour and told them I was at the end of what I could handle. The answer was the same as the first two: put up with things for now, and eventually, it will get better.
+
+I did not take their advice. I was exhausted, at the end of my capacity. So I went to the Senate, the meeting of directors. At the end of that meeting, I announced that I felt as though I was doing more than I could keep up with, and if things did not get better in a month I would resign. The meeting was concluded, the Program Director wept, the boulder cracked.
+
+<center><b><i>The Gate</i></b></center>
+
+I knew what I had done, and meant what it meant for my future. Things were better for a while, at least until it came to hire the new Program Director. When I found out that the current one was on the hiring board, I knew my time pushing that accursed boulder would be coming to an end. My hiring was blocked by one vote. When offered the role of assistant again, you can imagine what went through my head. At least I can be proud of the work I did when I had the chance.
